@@ -1,4 +1,4 @@
-baseurl: "tpugh.github.io/ecg/jekyll-serif-theme/"
+baseurl: "/ecg/"
 permalink: pretty
 title: 'Jekyll Serif'
 
