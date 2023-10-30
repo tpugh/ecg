@@ -1,4 +1,4 @@
-baseurl: "/ecg/"
+baseurl: "/"
 permalink: pretty
 title: 'Jekyll Serif'
 
