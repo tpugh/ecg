@@ -1,7 +1,7 @@
 {
     "originRepo": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "title": "Jekyll Serif",
-    "description": "Serif is a multi page business theme for Jekyll.",
+    "title": "The Erudition Computing Group",
+    "description": "A small business focused on delivering cutting-edge system and software engineering services.",
     "demoUrl": "https://jekyll-advance.netlify.app",
     "categories": {
       "ssg": ["jekyll"],
