@@ -1,7 +1,7 @@
 [
   {
     "title": "Cloud Native",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Open Source Software",
-    "description": "All members of our team are certified accountants.",
+    "description": "",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Research & Development",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "description": "",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
