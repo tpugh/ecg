@@ -4,7 +4,7 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-At ECG, we offer a full spectrum of cloud computing services designed to transform your IT infrastructure
+We offer a full spectrum of cloud computing services designed to transform your IT infrastructure
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
