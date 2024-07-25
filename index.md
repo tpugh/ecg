@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# The Erudition Computing Group (ECG)
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+ECG is a leading provider of comprehensive IT services specializing in DevOps, cloud computing, open source software, and program management. With a robust portfolio centered on Amazon Web Services (AWS), hybrid cloud solutions, and agile Scrum methodologies, we deliver transformative digital experiences to our clients.
